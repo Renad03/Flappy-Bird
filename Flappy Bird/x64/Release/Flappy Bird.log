@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(46,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(25,10): warning C4101: 'event': unreferenced local variable
+  Generating code
+  1 of 72 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Flappy Bird.vcxproj -> C:\Users\renad\source\repos\Flappy Bird\x64\Release\Flappy Bird.exe
