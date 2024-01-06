@@ -1,8 +1,43 @@
 ﻿  Source.cpp
-C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(46,23): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(25,10): warning C4101: 'event': unreferenced local variable
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(25,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(26,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(34,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(34,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(39,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(49,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(49,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(53,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(53,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(96,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(102,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(102,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(106,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(119,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(122,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(154,33): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\renad\source\repos\Flappy Bird\Flappy Bird\Source.cpp(112,9): warning C4101: 'event': unreferenced local variable
   Generating code
-  1 of 72 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+  1 of 80 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
