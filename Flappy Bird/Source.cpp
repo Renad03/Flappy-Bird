@@ -380,7 +380,7 @@ int main()
 	on.setPosition(500, 355);
 	off.setPosition(500, 355);
 	bool soundon = 1;
-	//-----------------------------------------renad and fatma----------------------------------
+	
 	int anim = 0;
 	int f = 500, q = 500, s = 0, y = 0;
 	int pipe_offset = 165;

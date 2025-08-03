@@ -1,4 +1,179 @@
-﻿Source.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sound::Sound(void)" (__imp_??0Sound@sf@@QEAA@XZ) referenced in function "void __cdecl game(class sf::RenderWindow &,bool &)" (?game@@YAXAEAVRenderWindow@sf@@AEA_N@Z)
+﻿  Source.cpp
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,69): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,69): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,69): warning C4244:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,69): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,39): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,39): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,39): warning C4244:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(21,39): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(26,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(26,41): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(26,41): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(26,41): warning C4244:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(26,41): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(34,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(35,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,81): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,81): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,81): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,81): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,47): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,47): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,47): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(67,47): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,77): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,77): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,77): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,77): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,45): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,45): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,45): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(73,45): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,82): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,82): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,82): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,82): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,48): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,48): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,48): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(80,48): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(105,18): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(112,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(112,40): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(112,40): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(112,40): warning C4244:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(112,40): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(116,24): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(117,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(117,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(121,26): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(122,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(127,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(128,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(141,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(200,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(200,39): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(200,39): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(200,39): warning C4244:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(200,39): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(228,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(228,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(231,25): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(231,20): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(249,27): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(249,22): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(292,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(292,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,81): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,81): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,81): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,81): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,47): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,47): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,47): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(304,47): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,81): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,81): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,81): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,81): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,49): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,49): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,49): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(310,49): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,77): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,77): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,77): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,77): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,45): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,45): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,45): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(316,45): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,82): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,82): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,82): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,82): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,48): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,48): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,48): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(323,48): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,90): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,90): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,90): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,90): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,56): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,56): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,56): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(349,56): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,86): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,86): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,86): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,86): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,54): warning C4244:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,54): warning C4244:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,54): warning C4244:             T=unsigned int
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(350,54): warning C4244:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(378,19): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(378,14): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(379,20): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(379,15): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(404,18): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(410,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(411,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(424,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(424,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(427,25): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(427,20): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(444,31): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(444,26): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(460,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(460,24): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(486,33): warning C4305: 'argument': truncation from 'double' to 'T'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(486,33): warning C4305:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(486,33): warning C4305:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(486,33): warning C4305:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(486,33): warning C4305:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(498,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(498,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(501,27): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(501,22): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(541,33): warning C4305: 'argument': truncation from 'double' to 'T'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(541,33): warning C4305:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(541,33): warning C4305:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(541,33): warning C4305:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(541,33): warning C4305:         ]
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(570,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(570,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(573,34): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(573,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(591,36): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(591,31): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(615,33): warning C4305: 'argument': truncation from 'double' to 'T'
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(615,33): warning C4305:         with
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(615,33): warning C4305:         [
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(615,33): warning C4305:             T=float
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\Flappy Bird\Source.cpp(615,33): warning C4305:         ]
+Source.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sound::Sound(void)" (__imp_??0Sound@sf@@QEAA@XZ) referenced in function "void __cdecl game(class sf::RenderWindow &,bool &)" (?game@@YAXAEAVRenderWindow@sf@@AEA_N@Z)
 Source.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sound::~Sound(void)" (__imp_??1Sound@sf@@UEAA@XZ) referenced in function "void __cdecl game(class sf::RenderWindow &,bool &)" (?game@@YAXAEAVRenderWindow@sf@@AEA_N@Z)
 Source.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual void __cdecl sf::Sound::play(void)" (__imp_?play@Sound@sf@@UEAAXXZ) referenced in function "void __cdecl game(class sf::RenderWindow &,bool &)" (?game@@YAXAEAVRenderWindow@sf@@AEA_N@Z)
 Source.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::setBuffer(class sf::SoundBuffer const &)" (__imp_?setBuffer@Sound@sf@@QEAAXAEBVSoundBuffer@2@@Z) referenced in function "void __cdecl game(class sf::RenderWindow &,bool &)" (?game@@YAXAEAVRenderWindow@sf@@AEA_N@Z)
@@ -8,4 +183,4 @@ Source.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) pu
     Hint on symbols that are defined and could potentially match:
       "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
       "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
-C:\Users\renad\source\repos\Flappy Bird\x64\Debug\Flappy Bird.exe : fatal error LNK1120: 7 unresolved externals
+E:\Renad\My-Projects\Flappy-Bird\Flappy-Bird\x64\Debug\Flappy Bird.exe : fatal error LNK1120: 7 unresolved externals
